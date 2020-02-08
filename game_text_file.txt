@@ -1,0 +1,55 @@
+It's the beginning of the semester. You have an 8 am class tomorrow. Your roommate invites you to a party. What would you do?
+Go to the party.
+Go to sleep.
+Go to the party and leave early.
+Play games all night instead of going to the party.
+There is an involvement fair coming up. You ...
+Do not join any clubs.
+Do not join any clubs because your friends are not.
+Go there if there are only food and/or free stuff.
+Go there and join the club that you're most interested in.
+The job fair is coming up, and you want to dress to impress, but you are low on money.
+You "borrow" your roommate's clothes.
+You ask your friends for formal clothes.
+You show up in a T-shirt and cargo shorts.
+You buy clothes.
+There is a test tomorrow, but you are not prepared.
+Stay up until 3 am studying.
+Play games until 3 am.
+Sleep early.
+Cheat on the test.
+There is a project due tomorrow, but you and your groupmates have not started.
+Take the L.
+Stay up by yourself trying to finish and submit the project before it is due.
+Contact your groupmates and stay up together to finish and submit the project before it is due.
+Email the professor to extend the deadline.
+You are trying to sleep early today because your job interview is tomorrow morning, but your suitemates are playing video games and yelling.
+Put in earbuds and try to fall asleep.
+Text your friends complaining about your suitemates.
+Ask your suitemates to lower the volume.
+Report to your RA or RHD without consulting your suitemates first.
+It is flu season and you are not feeling well enough to go to class.
+Force yourself to go to class and get everyone else sick.
+Go to the health center.
+Sleep.
+Play games.
+Roommate comes back drunk often. What would you do?
+Record the incident and blackmail.
+Report to RA or RHD.
+Attempt to bring your roommate to CPO.
+Ask to join and drink with them.
+You got into an argument with your friend, and there were several misunderstandings leading up to that.
+End the friendship.
+Self-reflect alone before asking to meet up and resolve the issues.
+Ask for advice from a trusted adult or friend.
+Complain about your friend to your other friends.
+You are struggling with your studies/homework
+Ask your friends for help.
+Copy stuff from online.
+Go to Professor's or TA's office hours.
+Struggle by yourself.
+It's final's week and all your finals are very close together. 
+Make a study plan and stick to it.
+Form a study group for your finals.
+YOLO them.
+Pull all-nighters for every one of them and hope for the best.
