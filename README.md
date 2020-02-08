@@ -1,5 +1,6 @@
 # HH2020
-It's the beginning of the semester. You have an 8 am class tomorrow. Your roommate invites you to a party. What would you do?<Enter>
+It's the beginning of the semester. You have an 8 am class tomorrow. Your roommate invites you to a party. What would you do?
+
 Choice 1: Go to the party (-H, -E, +S, -M, -G[.02])
 Choice 2: Go to sleep (H, +E, -S, M, G)
 Choice 3: Go to the party and leave early (-H, +E, +S, -M, -G[.01])
